@@ -1,4 +1,3 @@
-```solidity
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
@@ -139,4 +138,4 @@ contract BlindAuction {
         highestBidder = bidder;
         return true;
     }
-}```
+}
