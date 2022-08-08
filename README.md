@@ -5,7 +5,7 @@
 ### This marketplace is able to fractionalise A property into shares that can be seperately Sold
 # Web Flow
 (https://user-images.githubusercontent.com/92223697/183254196-fb5e20f0-099d-4408-9902-4abff16a5e6c.png)
-
+ERC721FactoryAddress = 0xFbE3020E552C1d3C7cD0C7994E4bce507909e2Db
 
 ```javascript
 ERC721FactoryAbi=[
